@@ -1,0 +1,9 @@
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\SpreadsheetWatcher\SpreadsheetWatcher\bin\Debug\SpreadsheetWatcher.exe.config
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\SpreadsheetWatcher\SpreadsheetWatcher\bin\Debug\SpreadsheetWatcher.exe
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\SpreadsheetWatcher\SpreadsheetWatcher\bin\Debug\SpreadsheetWatcher.pdb
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\SpreadsheetWatcher\SpreadsheetWatcher\obj\Debug\SpreadsheetWatcher.csprojResolveAssemblyReference.cache
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\SpreadsheetWatcher\SpreadsheetWatcher\obj\Debug\SpreadsheetWatcher.exe
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-report-parser\SpreadsheetWatcher\SpreadsheetWatcher\obj\Debug\SpreadsheetWatcher.pdb
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-filewatcher\SpreadsheetWatcher\bin\Debug\SpreadsheetWatcher.exe.config
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-filewatcher\SpreadsheetWatcher\obj\Debug\SpreadsheetWatcher.exe
+C:\Users\Bianca\Documents\GitHubVisualStudio\dtools-filewatcher\SpreadsheetWatcher\obj\Debug\SpreadsheetWatcher.pdb
